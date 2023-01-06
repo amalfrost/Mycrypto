@@ -1,0 +1,23 @@
+.navbar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: rgb(44, 46, 45);
+}
+
+.icon{
+    font-size: 2rem;
+    color: rgb(155, 29, 155) ;
+}
+.purple{
+    color: rgb(155, 29, 155) ;
+}
+.footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(44, 46, 45);
+}
